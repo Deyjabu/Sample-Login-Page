@@ -1,0 +1,251 @@
+body {
+    text-align: center;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0px;
+    font-family: 'Tinos','Anton';
+    background-color: #0fff95;
+}
+
+#head {
+    width: 100px;
+    min-width: 100%;
+    background-color: #06BA63;
+    
+}
+
+
+#head {
+    width: 980px;
+    margin: 0px;
+    padding: 0px;
+    height: 85px;
+    float:left;
+}
+
+.h1{
+    position:absolute;
+    color:#103900;
+    padding-top: 0%;
+    Left:3%;
+}
+
+    #head li {
+        list-style-type: none;
+        float: left;
+        text-align: left;
+        color: #103900;
+        font-weight: bold;
+    }
+
+    #head #sitename {
+        margin-top: 25px;
+    }
+
+        #head #sitename a {
+            color: #8CFBDE;
+            text-decoration: none;
+            font-size: 30px;
+            font-weight: 900;
+        }
+
+    #head form {
+        margin-top: 15px;
+        float: right;
+    }
+
+        #head form li {
+            font-size: 13px;
+            margin-left: 15px;
+        }
+
+            #head form li a {
+                color: #103900;
+                text-decoration: none;
+                font-weight: bold;
+            }
+
+        #head form input[type="text"] {
+            margin-top: 3px;
+            margin-bottom: 3px;
+            width: 150px;
+            border: 1px solid #103900;
+            height: 25px;
+            padding-left: 3px;
+        }
+
+        #head form input[type="password"] {
+            margin-top: 3px;
+            margin-bottom: 3px;
+            width: 150px;
+            border: 1px solid #103900;
+            height: 25px;
+            padding-left: 3px;
+        }
+
+        #head form input[type="submit"] {
+            height: 25px;
+            margin-top: 20px;
+            background-color: #0fff95;
+            color: #103900;
+            border: 1px solid #0fff95;
+            font-family: 'Anton','Tinos';
+            cursor: pointer;
+            
+        }
+
+.spacing {
+    margin: 0 auto;
+    padding: 0px;
+    text-align: center;
+    width: 980px;
+}
+
+    #spacing div {
+        float: left;
+        font-family: 'Tinos', 'Anton';
+    }
+
+    #spacing #div1 {
+        margin-top: 30px;
+        width: 980px;
+        text-align: left;
+    }
+    .logo{
+        position:absolute;
+        height:580px;
+        width: 480px;
+        Left:4%;
+        padding-top: 0px;
+        top:8%;
+    }
+    .font{
+        font-family: 'Tinos','Anton';
+        color: #103900;
+        position:absolute;
+        Left:15%;
+        padding-top: 0px;
+        top:75%;
+        font-weight: bolder;
+        font-size: xx-large;
+     }
+
+        #spacing #div1 bday {
+            font-size: 20px;
+            font-family: arial;
+            font-weight: bold;
+            margin: 0px;
+            color: #8cFBDE;
+        }
+       
+
+    #spacing #signup {
+        margin-top: 10px;
+        width: 390px;
+        text-align: left;
+    }
+
+        #spacing #signup h1 {
+            margin: 0px;
+            font-size: 37px;
+            color: #103900;
+        }
+
+        #spacing #signup p {
+            font-size: 18px;
+            color: #103900;
+        }
+
+        #spacing #signup li {
+            list-style-type: none;
+            margin-top: 10px;
+        }
+
+            #spacing #signup li #firstname {
+                width: 49%;
+            }
+
+            #spacing #signup li #surname {
+                margin-left: 2%;
+                width: 49%;
+            }
+
+            #spacing #signup li input[type="text"] {
+                width: 100%;
+                height: 40px;
+                border-radius: 5px;
+                padding-left: 10px;
+                font-size: 18px;
+                border: 1px solid #8cFBDE;
+            }
+
+            #spacing #signup li input[type="password"] {
+                width: 100%;
+                height: 40px;
+                border-radius: 5px;
+                padding-left: 10px;
+                font-size: 18px;
+                border: 1px solid #8cFBDE;
+            }
+
+            #spacing #signup li select {
+                padding: 4px;
+                float: left;
+            }
+
+            #spacing #signup li a {
+                margin-left: 10px;
+                width: 150px;
+                color: #8b94a3;
+                text-decoration: none;
+                font-size: 11px;
+                display: inline-block;
+                vertical-align: middle;
+                line-height: 15px;
+            }
+
+                #spacing #signup li a:hover {
+                    text-decoration: underline;
+                }
+
+        #spacing #signup li {
+            color: #103900;
+            font-size: 18px;
+        }
+
+        #spacing #signup #terms {
+            color: #103900;
+            font-size: 11px;
+        }
+
+            #spacing #signup #terms a {
+                display: inline;
+                margin: 0px;
+            }
+
+        #spacing #signup li input[type="submit"] {
+            width: 205px;
+            height: 45px;
+            text-align: center;
+            font-size: 19px;
+            margin-top: 10px;
+            margin-bottom: 10px;
+            font-family: 'Tinos','Anton';
+            font-weight: bold;
+            background: linear-gradient(#06ba63, #8b94a3);
+            background-color: #103900;
+            box-shadow: inset 0 1px 1px #8cFBDE;
+            border-color: #06ba63 #0fff95;
+            border: 1px solid;
+            border-radius: 5px;
+            color: #8cFBDE;
+            cursor: pointer;
+            display: inline-block;
+            position: relative;
+            text-shadow: 0 1px 2px rgba(0,0,0,.5);
+            
+        }
+  
+      
+
+
